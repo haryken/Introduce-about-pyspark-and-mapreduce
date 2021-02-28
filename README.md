@@ -1,4 +1,4 @@
-**PySpark là gì?
+<b>PySpark là gì?</b>
 
 Apache Spark là một khung tính toán cụm nhanh được sử dụng để xử lý, truy vấn và phân tích dữ liệu lớn. Dựa trên tính toán trong bộ nhớ, nó có lợi thế hơn một số khung dữ liệu lớn khác.
 
